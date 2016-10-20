@@ -1,0 +1,100 @@
+The Bonitasoft Contributor License Agreement (CLA) means, in simple terms, that:
+
+You assign and transfer the copyright of your contribution to Bonitasoft to the extent permitted by applicable law.
+You grant a patent license to Bonitasoft and its users, in the event that you own a patent that covers your contribution.
+You represent that you coded and own the contribution, and are legally entitled to grant the assignment and license.
+You may provide support for free, for a fee, or not at all.
+Bonitasoft has no obligation to accept or use your contribution.
+
+If we accept and maintain your contribution, and it is deemed of material value to the Project, your benefit is that we relieve you of the burden of maintaining your contribution.
+
+
+Contributor Agreement
+
+Bonitasoft SA
+32 rue Gustave Eiffel, 38000 Grenoble
+France
+
+
+Thank you for your interest in participating as a contributor to the Bonitasoft development project (the "Project"). The Project consists of individual development projects for Bonitasoft products, including but not limited to Bonita BPM, which may be made available by Bonitasoft under free and/or commercial licenses and subscriptions.
+
+In order to conclusively and clearly set out the responsibilities and obligations associated with Contributions (as defined below), Bonitasoft S.A. ("Bonitasoft"), as owner of the Project, has each Contributor enter into this Contributor Agreement (the "Agreement") and agree to the terms below.
+
+You and Bonitasoft hereby accept and agree to the following terms and conditions:
+
+1.	Contributors and Contributions
+
+1.1 	Any individual or legal entity that voluntarily submits to the Project a Contribution is addressed herein as "Contributor" or "You". For legal entities, the entity making a Contribution and all other entities that control, are controlled by, or are under common control with that entity are considered to be a single Contributor. For the purposes of this definition, "control" means
+
+(a) the power, direct or indirect, to cause the direction or management of such entity, whether by contract or otherwise, or
+
+(b) ownership of fifty percent (50%) or more of the outstanding shares, or
+
+(c) beneficial ownership of such entity.
+
+1.2 	A "Contribution" is any original work, bug report, bug fix, test case including any modification or addition to an existing work that has been submitted for inclusion in, or documentation of, any of the products owned or managed by the Project, where such work originates from that particular Contributor.
+
+1.3 	A Contribution is "submitted" when any form of electronic, verbal, or written communication or documentation sent to the Project (including but not limited to communication via email to adoption@bonitasoft.com or to individual employee @bonitasoft.com) that includes a reference of your intent to make a contribution to the Project.
+
+1.4. Any Contribution submitted by You to the Project shall be under the terms and conditions of this Agreement, without any additional terms or conditions. In the event Bonitasoft should request that You execute this Agreement in written form with a personal signature, or execute a form of assignment or other documents necessary to complete a copyright registration filing, You agree to do so promptly and without additional consideration.
+
+2. 	Contributor Grants.
+
+For the benefit of Bonitasoft:
+
+2.1	You hereby irrevocably assign, transfer, and convey to Bonitasoft all right, title and interest in and to the Contribution. Such assignment includes all copyrights, copyright applications, and copyright registrations, and all other intellectual property or proprietary rights other than patents relating to the Contribution, together with all causes of actions accrued in your favor for infringement thereof, recognized in any jurisdiction, whether or not perfected ("Proprietary Rights"). Without limiting the generality of the foregoing, Bonitasoft shall have the right to use or not use the Contribution and to use, sell, register, distribute, license, reproduce, re-use, alter, modify, edit, change, or otherwise commercialize the Contribution as it sees fit, in any manner now known or in the future discovered, and for any purpose. To the extent that under any applicable mandatory law, Proprietary Rights cannot be assigned, You irrevocably agree to grant, and You hereby grant, to Bonitasoft an exclusive, perpetual, irrevocable, unlimited, worldwide, fully paid, and unconditional license to use and commercialize Proprietary Right to the Contribution in any manner now known or in the future discovered. To the extent such license grant is not fully valid, effective or enforceable under mandatory law, You irrevocably agree to grant, and You hereby grant, to Bonitasoft, such rights as Bonitasoft reasonably requests in order to acquire a legal position as close as possible to full and exclusive legal ownership.
+
+2.2 	You hereby grant to Bonitasoft and to any and all individuals and entities who obtain, access, use, or distribute any Bonitasoft product a perpetual, non-exclusive, worldwide, fully paid-up, royalty free, irrevocable (except as set forth below with respect to litigation) license to any patent rights to make, have made, use, offer to sell, sell, import, and otherwise exploit or transfer your Contribution or prepare derivative works thereof, where such license applies only to those patent claims licensable by You that are necessarily infringed by your Contribution alone or by combination of your Contribution with other work of the Project. The patent license granted in this Section shall immediately terminate with respect to any party that institutes patent litigation against You or Bonitasoft (including a cross-claim or counterclaim in a lawsuit) alleging that your Contribution, or the Project work to which You have contributed, constitutes direct or contributory patent infringement.
+
+2.3 	In case that under mandatory law, You retain any moral rights or other inalienable rights to Contributions, You agree not to exercise such rights, until You have provided prior written notice to Bonitasoft and then only in accordance with any reasonable instructions that Bonitasoft issues in the interest of protecting its rights and the rights of its users and customers.
+
+2.4 	In order to ensure that Bonitasoft will be able to acquire, perfect and use its Proprietary Rights under Section 2.1 and its patent license under Section 2.2, You will: (i) sign any documents to assist Bonitasoft in the documentation, perfection and enforcement of its rights, and (ii) provide Bonitasoft with support and reasonable access to information for recording, perfecting, securing, defending, and enforcing its rights. You also irrevocably authorize Bonitasoft to act and sign on your behalf and take any necessary steps in order to perfect Bonitasoft's rights under this Agreement.
+
+3. 	Identification of Contributors
+
+3.1 	Upon general availability release of a Bonitasoft product that includes your Contribution, Bonitasoft shall identify You by name in the acknowledgements section of the code notes.  Bonitasoft's sole liability and your sole remedy for breach of this Section is for Bonitasoft to correct the attribution in the next release following the date on which the breach was brought to Bonitasoft's attention. Any Contributor who does not want to be identified as a Contributor must notify Bonitasoft of that by means of an email to adoption@bonitasoft.com.
+
+3.2 	Upon confirmation of Bonitasoft's acceptance of your first Contribution, You may identify yourself as a Bonitasoft Contributor by means of a logo provided by Bonitasoft, and at that time shall be granted a non-exclusive, non-transferable and fully revocable license to use and display the "Bonitasoft CONTRIBUTOR" logo.  Any use of the "Bonitasoft CONTRIBUTOR" logo must be in accordance with Bonitasoft's then-current trademark and logo usage guidelines, available upon request at adoption@bonitasoft.com. You acknowledge and agree that Bonitasoft owns the "Bonitasoft CONTRIBUTOR" logo and that any and all goodwill arising from your use of the "Bonitasoft CONTRIBUTOR" logo hereunder inures solely to the benefit of Bonitasoft. Bonitasoft reserves the right to terminate any Contributor's right to identification as a Bonitasoft Contributor and the use of any "Bonitasoft CONTRIBUTOR" logo upon notice.
+
+4. 	Contributor Representations.
+
+With acknowledgement and agreement that Bonitasoft and Users of its products will invest significant resources in product development, application development, marketing, and other cost-intensive undertakings in reliance upon your representations in this Agreement, You represent and warrant that:
+
+4.1 	You are legally entitled to grant the above assignment and license.
+
+4.2 	If your employer(s) has rights to intellectual property that You create that includes your Contributions, You have received permission to make Contributions on behalf of that employer, that your employer has waived such rights for your Contributions to the Project, or that your employer has executed a separate CLA with Bonitasoft.
+
+4.3 	Each of your Contributions is your original creation. You represent that any Contribution submission(s) You make shall include full disclosure and complete details of any third-party license or other restriction (including, but not limited to, related copyright, patents and trademarks) which are associated with any part of your Contribution.
+
+4.4 	To the best of your knowledge, no government license or permission is required for the export, import, transfer or use of the Contribution.
+
+4.5 	No claim or dispute has been alleged, threatened, made or filed in connection with the ownership, use or distribution of your Contribution.
+
+4.6 	Entering into this Agreement and submitting a Contribution does not violate, breach or constitute a default under any other agreement to which You or your employer is a party, does not require any consent, approval or waiver from or notice to any third party, and does not violate any law or regulation.
+
+5. 	Contributor's Ongoing Obligation.
+You agree to notify the Project promptly of any facts or circumstances of which You become aware that would make the representations and warranties in Section 4 inaccurate or untrue in any respect.
+
+6.  	Disclaimer of Warranties.
+EXCEPT FOR THE EXPRESS WARRANTIES SET FORTH IN SECTION 4, NEITHER YOU NOR Bonitasoft MAKE ANY WARRANTIES OF ANY KIND TO THE OTHER PARTY, EITHER EXPRESS OR IMPLIED, INCLUDING WITHOUT LIMITATION ANY WARRANTIES OF A CONTRIBUTION'S MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE.
+
+7. 	Support for Contributions.
+You are not expected or obligated to provide technical support for your Contributions, except to the extent You desire to provide such support. You may provide technical support for free, for a fee, or not at all.  If You decide to provide technical support for a fee, Bonitasoft shall have no obligation to pay any such fee unless the terms of such support (including applicable fees) are set forth in a separate written agreement signed by an authorized representative of Bonitasoft.
+
+8. 	Acceptance and Compensation.
+
+8.1	The Project is under no obligation to accept any Contribution or include any Contribution in any Project software or documentation.
+
+8.3 	For any Contribution from You that Bonitasoft accepts and, in its reasonable discretion, decides is of material value to the Project (i.e. feature contributions that significantly extend or improve the functionality of Project software), Bonitasoft, or its community of users. The compensation for Contributors shall be defined in a separate written agreement.
+
+8.4 	Do not submit a Contribution if the terms of this Agreement are not acceptable to you. Instead contact adoption@bonitasoft.com with a complete description of the contribution you are prepared to make and a summary of the business terms on which the contribution could be made. From time to time Bonitasoft will make extraordinary compensation available for a Contribution that provides extraordinary benefit to the Project.
+
+8.5 	For a conclusive determination of whether your Contribution gives rise to a right to such consideration You may contact the Project at adoption@bonitasoft.com. YOU ACKNOWLEDGE AND AGREE THAT THE CONSIDERATION YOU ELECT TO RECEIVE PURSUANT TO THIS SECTION 8 IS THE SOLE AND EXCLUSIVE COMPENSATION YOU WILL EVER RECEIVE IN CONNECTION WITH YOUR CONTRIBUTION AND YOUR OBLIGATIONS AND RESPONSIBILITIES UNDER THIS AGREEMENT.
+
+9. 	Future claims.
+At no time hereafter shall You dispute, contest, or aid or assist others in disputing or contesting, either directly or indirectly, Bonitasoft's exclusive right, title, and interest in any and all Contributions, including (but not limited to) any and all copyright and other intellectual property rights therein claimed by Bonitasoft.
+
+10. 	Miscellaneous.
+This Agreement contains the entire agreement between the parties, and supersedes all prior or contemporaneous agreements or understanding, whether written or oral, relating to its subject matter.  The terms of this Agreement are binding contractual obligations and not mere guidelines or recitals.  The summary made available in conjunction with this Agreement is provided for informational purposes only, and in the event of a conflict between the summary and the terms of this Agreement, the terms of this Agreement shall prevail.
+
+This Agreement may be terminated by either party upon written notice to the other party, provided that the terms of this Agreement shall remain in full force and effect with respect to any Contribution submitted prior to the termination date of this Agreement. This Agreement may be amended or modified only in a writing executed by both parties. If any provision of this Agreement shall be deemed invalid or unenforceable, the validity and enforceability of the remaining provisions of this Agreement shall not be affected and such provision shall be deemed modified only to the extent necessary to make such provision consistent with applicable law. This Agreement is governed by and interpreted in accordance with the laws of France (without regard to its principles of conflicts of law). You agree that the terms and conditions of this Agreement are reasonable and necessary for protection of Bonitasoft's interest in the Project and the assigned Contributions, and that irreparable injury will result to Bonitasoft if You breach any term or condition herein.  You agree that Bonitasoft may take any necessary action to compel specific performance or enjoin any violation of this Agreement before any court of competent jurisdiction. Bonitasoft, as used herein, shall mean Bonitasoft SA, as well as its successors and assigns.
