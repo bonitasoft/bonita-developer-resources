@@ -9,6 +9,7 @@
   * To quickly create a topic branch based on master; `git checkout -b fix/tickectId_my_contribution master`.
 * Make commits of logical units.
 * Check for unnecessary whitespace with `git diff --check` before committing.
+* Configure your IDE using our [codestyle conventions](codestyle/README.md).
 * Make sure your commit messages are in the [proper format](#commit_format).
 * Make sure you have added the necessary tests for your changes.
 * Run _all_ the tests to assure nothing else was accidentally broken.
