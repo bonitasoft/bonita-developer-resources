@@ -5,10 +5,8 @@
 * Fork the repository on GitHub
 * Create a topic branch from where you want to base your work.
   * This is usually the master branch.
-  * Only target release branches if you are certain your fix must be on that
-    branch.
-  * To quickly create a topic branch based on master; `git checkout -b
-    fix/tickectId_my_contribution master`.
+  * Only target release branches if you are certain your fix must be on that branch.
+  * To quickly create a topic branch based on master; `git checkout -b fix/tickectId_my_contribution master`.
 * Make commits of logical units.
 * Check for unnecessary whitespace with `git diff --check` before committing.
 * Make sure your commit messages are in the [proper format](#commit_format).
@@ -17,7 +15,7 @@
 
 ## Submitting Changes
 
-* Sign the _Contributor License Agreement_, contact [Bonitasoft adoption DPT](mailto:adoption@bonitasoft.com).
+* Sign the [Contributor License Agreement](Bonitasoft_Contributor__License_Agreement.txt).
 * Push your changes to a topic branch in your fork of the repository.
 * Submit a **pull request** to the repository in the Bonitasoft organization.
 * The dev team looks at Pull Requests on a regular basis.
@@ -39,7 +37,7 @@
 ````
 Only the **footer** is optional.
 
-All the lines of the commit message cannot be longer 100 characters, 60 for the first line! This allows the message to be easier to read on GitHub as well as in various git tools.
+All the lines of the commit message cannot be longer than 100 characters, 60 for the first line! This allows the message to be easier to read on GitHub as well as in various git tools.
 
 ### Type
 
