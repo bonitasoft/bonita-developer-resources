@@ -9,6 +9,7 @@
   * [Body](#body)
   * [Footer](#footer)
   * [Examples](#examples)
+* [PR Review](#pr-review)
 * [Additional Resources](#additional-resources)
 
 ## Making Changes
@@ -106,6 +107,14 @@ Do some awesome things like:
     
 Closes [BS-14965](https://bonitasoft.atlassian.net/browse/BS-14965)
 ```
+
+## PR Review
+At the time of writting, github does not bring any facility to express reader feeling in PR review comment.
+It might be useful to use the following convention to ease communication in PR reviews.
+* :information_source: (`:information_source:`) for an optional feedback, an information to be added by the reviewer
+* :question: (`:question:`) for a question
+* :warning: (`:warning:`) for an attention point, might be changed
+* :x: (`:x:`) for something wrong, must be changed
 
 # Additional Resources
 
