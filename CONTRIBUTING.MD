@@ -1,5 +1,16 @@
 # How to contribute
 
+* [Making Changes](#making-changes)
+* [Submitting Changes](#submitting-changes)
+* [Commit format](#commit-format)
+  * [Type](#type)
+  * [Scope](#scope)
+  * [Subject](#subject)
+  * [Body](#body)
+  * [Footer](#footer)
+  * [Examples](#examples)
+* [Additional Resources](#additional-resources)
+
 ## Making Changes
 
 * Fork the repository on GitHub
@@ -27,7 +38,7 @@
 	* TR (Technical requirement)
 	* WIP (Work in progress)
 
-## <a name="commit_format"></a> Commit format
+## Commit format
 
 ````
 	<type>(<scope>): <subject>
