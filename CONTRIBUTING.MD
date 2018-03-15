@@ -1,5 +1,17 @@
 # How to contribute
 
+* [Making Changes](#making-changes)
+* [Submitting Changes](#submitting-changes)
+* [Commit format](#commit-format)
+  * [Type](#type)
+  * [Scope](#scope)
+  * [Subject](#subject)
+  * [Body](#body)
+  * [Footer](#footer)
+  * [Examples](#examples)
+* [PR Review](#pr-review)
+* [Additional Resources](#additional-resources)
+
 ## Making Changes
 
 * Fork the repository on GitHub
@@ -27,7 +39,7 @@
 	* TR (Technical requirement)
 	* WIP (Work in progress)
 
-## <a name="commit_format"></a> Commit format
+## Commit format
 
 ````
 	<type>(<scope>): <subject>
@@ -95,6 +107,14 @@ Do some awesome things like:
     
 Closes [BS-14965](https://bonitasoft.atlassian.net/browse/BS-14965)
 ```
+
+## PR Review
+At the time of writting, github does not bring any facility to express reader feeling in PR review comment.
+It might be useful to use the following convention to ease communication in PR reviews.
+* :information_source: (`:information_source:`) for an optional feedback, an information to be added by the reviewer
+* :question: (`:question:`) for a question
+* :warning: (`:warning:`) for an attention point, might be changed
+* :x: (`:x:`) for something wrong, must be changed
 
 # Additional Resources
 
