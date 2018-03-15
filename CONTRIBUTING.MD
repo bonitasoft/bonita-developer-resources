@@ -44,16 +44,16 @@ All the lines of the commit message cannot be longer than 100 characters, 60 for
 
 Must be one of the following:
 
-* feat: A new feature
-* fix: A bug fix
-* defect: A fix done on a non-released feature
-* docs: Documentation only changes
-* style: Changes that do not affect the meaning of the code (white-space, formatting, missing semi-colons, etc)
-* refactor: A code change that neither fixes a bug nor adds a feature
-* perf: A code change that improves performance
-* test: Adding missing tests or correcting existing tests
-* chore: Changes that affect the build system, CI configuration or external dependencies
-* revert: If the commit reverts a previous commit, it should begin with `revert:`, followed by the header of the reverted commit. In the body it should say: `This reverts commit <hash>.`, where the hash is the SHA of the commit being reverted.
+* **feat**: A new feature
+* **fix**: A bug fix
+* **defect**: A fix done on a non-released feature
+* **docs**: Documentation only changes
+* **style**: Changes that do not affect the meaning of the code (white-space, formatting, missing semi-colons, etc)
+* **refactor**: A code change that neither fixes a bug nor adds a feature
+* **perf**: A code change that improves performance
+* **test**: Adding missing tests or correcting existing tests
+* **chore**: Changes that affect the build system, CI configuration or external dependencies
+* **revert**: If the commit reverts a previous commit, it should begin with `revert:`, followed by the header of the reverted commit. In the body it should say: `This reverts commit <hash>.`, where the hash is the SHA of the commit being reverted.
 
 ### Scope
 
