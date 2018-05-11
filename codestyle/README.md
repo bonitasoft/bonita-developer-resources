@@ -94,6 +94,6 @@ You should have something like in the following:
 ![copyright profiles](doc/intellij_copyright_profiles.png)
 
 
-Finally, go to the `Profile > Formatting` and configure as in the following:
+Finally, go to the `Copyright > Formatting` and configure as in the following:
 
 ![copyright formatting](doc/intellij_copyright_formatting.png)
