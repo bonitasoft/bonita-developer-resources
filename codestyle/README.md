@@ -62,7 +62,7 @@ You should have something like in the following:
 ![intellij imports](doc/intellij_scopes.png)
 
 
-The, create two new profiles using the `Copyright > Copyright Profiles`
+Then, create two new profiles using the `Copyright > Copyright Profiles`
 
 Community profile with content:
 ```
@@ -92,6 +92,10 @@ or Bonitasoft US, 51 Federal Street, Suite 305, San Francisco, CA 94107
 You should have something like in the following:
 
 ![copyright profiles](doc/intellij_copyright_profiles.png)
+
+Then, associate the Copyright profiles to the scopes you created:
+
+![copyrights](doc/intellij_copyright_profile_mappings.png)
 
 
 Finally, go to the `Copyright > Formatting` and configure as in the following:
