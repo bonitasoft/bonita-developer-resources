@@ -35,19 +35,19 @@ Then in the plugin settings, configure as in the following:
 
 ![intellij formatter](doc/intellij_formatter.png)
 
-### Imports
+### Java code style
 
-In the `Code Style > Java` settings, configure as in the following:
+In the `Editor > Code Style > Java` settings, use, the import feature to import the [java_code_style](Bonitasoft_Java_codestyle_IntelliJ_IDEA.xml) file:
 
+![importing intellij java code style](doc/intellij_codestyle_import_settings.png)
+
+This will set the code style settings as in the following screenshots:
 ![intellij imports](doc/intellij_imports.png)
-
-
-In order to auto organize imports on the fly, go to `Editor > General > Auto import` and check all options:
 
 ![intellij auto import](doc/intellij_auto_import.png)
 
 
-### Copyright headers
+### Copyright headers (Optional)
 
 With Intellij it's possible to define different headers for community and subscription code.  
 In the Scopes settings
