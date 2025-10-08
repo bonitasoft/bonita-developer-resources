@@ -30,24 +30,31 @@ Predefined configurations for formatter and templates to install in Eclipse IDE.
 
 ### Formatter
 
-Install the `Eclipse Code Formatter` plugin.  
-Then in the plugin settings, configure as in the following:
+1. Clone git repository in your prefered location: `git clone git@github.com:bonitasoft/bonita-developer-resources.git`
+2. Install the `Adapter for Eclipse Code Formatter` plugin.
+3. Then in the plugin settings, configure as in the following:
+    1. Create a new profile `Bonitasoft`
+    2. Use the previous git repository location for `Eclipse config file`
+    3. Set the `Manual Import Order` with `java;javax;`
 
 ![intellij formatter](doc/intellij_formatter.png)
 
 ### Java code style
 
-In the `Editor > Code Style > Java` settings, use, the import feature to import the [java_code_style](Bonitasoft_Java_codestyle_IntelliJ_IDEA.xml) file:
+In the `Editor > Code Style > Java` settings, import the scheme [Bonitasoft_Java_codestyle_IntelliJ_IDEA.xml](Bonitasoft_Java_codestyle_IntelliJ_IDEA.xml) as an `IntelliJ IDEA code style XML`:
 
 ![importing intellij java code style](doc/intellij_codestyle_import_settings.png)
 
 This will set the code style settings as in the following screenshots:
+
 ![intellij imports](doc/intellij_imports.png)
+
+In order to auto organize imports on the fly, go to `Editor > General > Auto import` and check all **Java options**:
 
 ![intellij auto import](doc/intellij_auto_import.png)
 
 
-### Copyright headers (Optional)
+### Copyright headers (OPTIONAL)
 
 With Intellij it's possible to define different headers for community and subscription code.  
 In the Scopes settings
