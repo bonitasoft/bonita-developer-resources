@@ -119,6 +119,6 @@ It might be useful to use the following convention to ease communication in PR r
 
 # Additional Resources
 
-* [Community website](http://community.bonitasoft.com/)
+* [Community website](http://community.ofelia.com/)
 * [Community Bug tracker (Jira)](https://bonita.atlassian.net/projects/BBPMC/)
 * [Internal Bug tracker (Jira)](https://bonitasoft.atlassian.net/projects/BS/)
