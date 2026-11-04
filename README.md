@@ -1,7 +1,7 @@
 # bonita-developer-resources
 
-This repository contains materials to contribute to bonitasoft repositories. The target audience
-is both Bonitasoft employees and any contributors outside Bonitasoft.
+This repository contains materials to contribute to Ofelia repositories. The target audience
+is both Ofelia employees and any contributors outside Ofelia.
 
 Content
 - [CONTRIBUTING.MD](CONTRIBUTING.MD): general guidelines for code and documentation contributions, this applies to all kind
